@@ -1,0 +1,11 @@
+{
+  "name": "sensor-emulator",
+  "version": "1.0.0",
+  "description": "Emulates sensord for the smart garden project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Apostu Daniel",
+  "license": "ISC"
+}
