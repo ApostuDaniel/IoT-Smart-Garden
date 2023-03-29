@@ -61,9 +61,7 @@ const SensorCharts = () =>{
             ])
         }
     }
-
-
-
+ 
     return (
       <div className="charts-wrapper">
         <div className="notifification-bar">
